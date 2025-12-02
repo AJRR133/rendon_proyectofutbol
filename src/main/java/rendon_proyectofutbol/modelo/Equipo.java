@@ -1,0 +1,30 @@
+package rendon_proyectofutbol.modelo;
+
+public enum Equipo {
+    SEVILLA,
+    ARSENAL,
+    ROMA,
+    LILLE,
+    LEVERKUSEN,
+    JUVENTUS,
+    CHELSEA,
+    MANCHESTER_UNITED,
+    ATLÉTICO_DE_MADRID,
+    LIVERPOOL,
+    EINTRACHT_FRANKFURT,
+    LYON,
+    PSG,
+    AC_MILAN,
+    LEIPZIG,
+    VALENCIA_CF,
+    MONACO,
+    NAPOLI,
+    FC_BARCELONA,
+    BORUSSIA_DORTMUND,
+    BAYERN_MUNICH,
+    REAL_MADRID,
+    INTER_DE_MILAN,
+    SEVILLA_FC,
+    MANCHESTER_CITY
+}
+
