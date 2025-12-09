@@ -1,0 +1,12 @@
+rendon_proyectofutbol\Config\Propiedades.class
+rendon_proyectofutbol\modelo\Usuario.class
+rendon_proyectofutbol\controlador\GestionaFutbol.class
+rendon_proyectofutbol\modelo\Liga.class
+rendon_proyectofutbol\modelo\Equipo.class
+rendon_proyectofutbol\Config\MongoDBConexion.class
+rendon_proyectofutbol\servicio\UsuarioService$2.class
+rendon_proyectofutbol\servicio\UsuarioService$1.class
+rendon_proyectofutbol\modelo\Direccion.class
+rendon_proyectofutbol\servicio\UsuarioService.class
+rendon_proyectofutbol\modelo\Ligas_favoritas.class
+rendon_proyectofutbol\Repo\UsuarioRepositorio.class
