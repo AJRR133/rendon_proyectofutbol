@@ -57,6 +57,9 @@ public class Direccion {
 		this.pais = pais;
 		this.codigo_postal = codigo_postal;
 	}
+	public Direccion() {
+		// TODO Auto-generated constructor stub
+	}
 	
 	
 	

@@ -84,6 +84,9 @@ public class Usuario {
 		this.direccion = direccion;
 		this.ligas_favoritas = ligas_favoritas;
 	}
+	public Usuario() {
+		// TODO Auto-generated constructor stub
+	}
 	
 	
 	
